@@ -16,7 +16,7 @@ body{
 
 
 .container{
-    max-width: 1366px;
+    max-width: 1280px;
     margin: 0 auto;
     width: 100%;
 }
@@ -81,7 +81,7 @@ h2{
 
 .conteudo{
     display: grid;
-    grid-template-columns: repeat(4 , 340px);
+    grid-template-columns: repeat(4 , 319px);
     column-gap: 1%;
 }
 
